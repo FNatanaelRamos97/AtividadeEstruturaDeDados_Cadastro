@@ -1,4 +1,4 @@
-#Atividade de Estrutura de dados(Cadastro)
+# Atividade de Estrutura de dados(Cadastro)
 
 Atividade realizada com a implementação do argc e argv. Os argumentos permitem pesquisar algo em um arquivo usando apenas uma linha de comando. 
 
