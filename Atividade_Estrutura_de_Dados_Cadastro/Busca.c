@@ -98,6 +98,8 @@ int CarregarDados(cadastro_t *dados, int tamanho){
 
     fclose(file);
 
+    free(dados)
+
     return 0;
 }
 
